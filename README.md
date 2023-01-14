@@ -16,7 +16,7 @@
 
 <h3>🛠 SKILLS</h3>
 
-- Programming Languages: HTML | CSS | JavaScript | <strong>Python</strong> | TypeScript | Pugs
+- Programming Languages: HTML | CSS | JavaScript | <strong>Python</strong> | TypeScript | Pugs | Java
 - Frameworks: <strong>React</strong> | React Native | Node.js | Boorstrap | Django | Flask
 - Databases & Tools: REST API | GraphQL | MongoDB | SQL | Git/Github | <strong>Shopify</strong> | Google Analytics
 - Design Software: Adobe Photoshop | InDesign | Illustrator | After Effects | XD | Lightroom | Cinema 4D | Glyphs
