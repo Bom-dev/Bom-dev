@@ -7,18 +7,17 @@
 <h3>👨🏻‍💻 ABOUT ME</h3>
   
 - 👋 Hi, I’m Bom. I am a Software Engineer in NYC with a design background
-- 🎓 Studied Fashin & Graphic Design, recently finished Software Engineering Immersive course @ General Assembly
+- 🎓 Studied Fashin & Graphic Design, finished Software Engineering Immersive course @ General Assembly
 - 📖 My main languages are Python & React
-- 🌱 I’m currently learning deeper Python w/ Linux, Docker, Kubernetes
+- 🌱 I’m currently learning everyday
 - 💕 I love to solve problems and to make a better answer
 - 🍷 Ask me anything about wines
-- ✍️ <strong>[PORTFOLIO](https://bom-kim.netlify.app)</strong>
+- ✍️ <strong>[PORTFOLIO](https://bomkim.info)</strong>
 
 <h3>🛠 SKILLS</h3>
 
-- Programming Languages: HTML | CSS | JavaScript | <strong>Python</strong> | TypeScript | Pugs | Java
-- Frameworks: <strong>React</strong> | React Native | Node.js | Boorstrap | Django | Flask
-- Databases & Tools: REST API | GraphQL | MongoDB | SQL | Git/Github | <strong>Shopify</strong> | Google Analytics
-- Design Software: Adobe Photoshop | InDesign | Illustrator | After Effects | XD | Lightroom | Cinema 4D | Glyphs
-- Now Learning: Linux | Docker | Kubernetes
-  </samp>
+- Programming Languages: Java | HTML | CSS | JavaScript | Python | TypeScript | Pugs 
+- Frameworks: React.js | React Native | Express.js | Bootstrap | Node.js | Django | Flask | Spring | Hibernate | JavaServer Faces(JSF) 
+- Databases & Tools: Rest API | GraphQL | MongoDB | SQL | SVN | Git/Github | VS Code | Eclipse | Maven | Tomcat 
+- General Tools: Adobe Creative Suite | Shopify | Google Analytics
+</samp>
