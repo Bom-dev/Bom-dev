@@ -7,7 +7,7 @@
 <h3>👨🏻‍💻 ABOUT ME</h3>
   
 - 👋 Hi, I’m Bom. I am a Software Engineer in NYC with a design background
-- 🎓 Studied Fashin & Graphic Design, finished Software Engineering Immersive course @ General Assembly
+- 🎓 Studied Fashion & Graphic Design, studying Computer Science @ Queens College
 - 📖 My main languages are Python & React
 - 🌱 I’m currently learning everyday
 - 💕 I love to solve problems and to make a better answer
